@@ -55,29 +55,28 @@ Credits: Nuku \*DSM\* on the WMMT Discord
 The following is a list of useful (external) links and resources for Maximum Tune 6.
 
 #### Official Resources
+* [Story Mode](https://wanganmaxi-official.com/wanganmaxi6/en/system/story/)
+  * Official Maximum Tune 6 Story Mode Information
 
-##### [Story Mode](https://wanganmaxi-official.com/wanganmaxi6/en/system/story/)
-Official Maximum Tune 6 Story Mode Information
+* [VS Player (This Machine)](https://wanganmaxi-official.com/wanganmaxi6/en/system/vsplayer/)
+  * Official Maximum Tune 6 VS Player (This Machine) Information
 
-##### [VS Player (This Machine)](https://wanganmaxi-official.com/wanganmaxi6/en/system/vsplayer/)
-Official Maximum Tune 6 VS Player (This Machine) Information
+* [Online VS (Ghost Battle)](https://wanganmaxi-official.com/wanganmaxi6/en/system/ghost/)
+  * Official Maximum Tune 6 Online VS (Ghost Battle) Information
 
-##### [Online VS (Ghost Battle)](https://wanganmaxi-official.com/wanganmaxi6/en/system/ghost/)
-Official Maximum Tune 6 Online VS (Ghost Battle) Information
+* [Time Attack](https://wanganmaxi-official.com/wanganmaxi6/en/system/timeattack/)
+  * Official Maximum Tune 6 Time Attack Information
 
-##### [Time Attack](https://wanganmaxi-official.com/wanganmaxi6/en/system/timeattack/)
-Official Maximum Tune 6 Time Attack Information
-
-##### [Level and Title](https://wanganmaxi-official.com/wanganmaxi6/en/system/level/)
-Official Maximum Tune 6 Level and Title Information
+* [Level and Title](https://wanganmaxi-official.com/wanganmaxi6/en/system/level/)
+  * Official Maximum Tune 6 Level and Title Information
 
 #### Unofficial Resources
 
-##### [Maximum Tune Subreddit](https://www.reddit.com/r/wmmt)
-Maximum Tune Community on Reddit.
+* [Maximum Tune Subreddit](https://www.reddit.com/r/wmmt)
+  * Maximum Tune Community on Reddit.
 
-##### [Maximum Tune WikiWiki](https://wikiwiki.jp/wmmt)
-Japanese Maximum Tune wiki website.
+* [Maximum Tune WikiWiki](https://wikiwiki.jp/wmmt)
+  * Japanese Maximum Tune wiki website.
 
-##### [SOARS Media](https://soarsmedia.blogspot.com/)
-Japanese website with various resources for Maximum tune such as a list of cars, titles, etc.
+* [SOARS Media](https://soarsmedia.blogspot.com/)
+  * Japanese website with various resources for Maximum tune such as a list of cars, titles, etc.
