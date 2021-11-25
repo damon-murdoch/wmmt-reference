@@ -5,7 +5,7 @@
 ### Table of Contents
 [1. External Links](#external-links) \
 [2. Resources and Tables](#resources-and-tables) \
-[1. Course Horsepower Table](#course-horsepower-table) \
+[1. Course Horsepower Table](#course-horsepower-table)
 
 ### Resources and Tables
 #### Course Horsepower Table
