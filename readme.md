@@ -2,14 +2,14 @@
 ## Quick Reference Guide
 ### Created by Damon M [@SirScrubbington](https://www.twitter.com/SirScrubbington)
 
-## Table of Contents
-### 1.0 [External Links](#external-links)
-### 2.0 [Resources and Tables](#resources-and-tables)
-  ### 2.1 [Per-Track Horsepower Table](#per-track-horsepower-table)
+### Table of Contents
+#### 1.0 [External Links](#external-links)
+#### 2.0 [Resources and Tables](#resources-and-tables)
+  #### 2.1 [Per-Track Horsepower Table](#per-track-horsepower-table)
 
-## 2.0 Resources and Tables
-### 2.1 Per Course Horsepower Table
-#### Credits: Nuku \*DSM\* on the WMMT Discord
+### 2.0 Resources and Tables
+#### 2.1 Per Course Horsepower Table
+Credits: Nuku \*DSM\* on the WMMT Discord
 
 | Track | Horse Power | Points |
 | ----- | ----------- | ------ |
@@ -35,14 +35,14 @@
 | Metro Hwy (Tokyo) | 760 HP | 18 P |
 | Metro Hwy (Kangawa) | 840 HP | 24 P |
 
-## 3.0 External Links
+### 3.0 External Links
 The following is a list of useful (external) links and resources for Maximum Tune 6.
 
-### [Maximum Tune Subreddit](https://www.reddit.com/r/wmmt)
+#### [Maximum Tune Subreddit](https://www.reddit.com/r/wmmt)
 Maximum Tune Community on Reddit.
 
-### [Maximum Tune WikiWiki](https://wikiwiki.jp/wmmt)
+#### [Maximum Tune WikiWiki](https://wikiwiki.jp/wmmt)
 Japanese Maximum Tune wiki website.
 
-### [SOARS Media](https://soarsmedia.blogspot.com/)
+#### [SOARS Media](https://soarsmedia.blogspot.com/)
 Japanese website with various resources for Maximum tune such as a list of cars, titles, etc.
