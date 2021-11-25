@@ -3,8 +3,9 @@
 ### Created by Damon M [@SirScrubbington](https://www.twitter.com/SirScrubbington)
 
 ### Table of Contents
-[External Links](#external-links) \
-[Resources and Tables](#resources-and-tables)
+* [External Links](#external-links) \
+* [Resources and Tables](#resources-and-tables) \
+  * [Course Horsepower Table](#course-horsepower-table)
 
 ### Resources and Tables
 #### Course Horsepower Table
