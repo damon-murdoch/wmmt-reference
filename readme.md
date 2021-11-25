@@ -5,9 +5,9 @@
 ### Table of Contents
 * [Introduction](#introduction)
 * [Frequently Asked Questions](#frequently-asked-questions)
-* [Resources and Tables](#resources-and-tables)
+* [Guides and References](#guides-and-references)
   * [Course Horsepower Table](#course-horsepower-table)
-* [External Links](#external-links)
+* [External Resources](#external-resources)
 
 ### Introduction
 Hello! I'm Damon, also known as Scrubbs and last year
@@ -22,9 +22,8 @@ and practising as well as recording useful information
 I find which may benefit newer players and my friends.
 
 ### Frequently Asked Questions
-#### 
 
-### Resources and Tables
+### Guides and References
 #### Course Horsepower Table
 Credits: Nuku \*DSM\* on the WMMT Discord
 
@@ -52,14 +51,33 @@ Credits: Nuku \*DSM\* on the WMMT Discord
 | Metro Hwy (Tokyo) | 760 HP | 18 P |
 | Metro Hwy (Kangawa) | 840 HP | 24 P |
 
-### External Links
+### External Resources
 The following is a list of useful (external) links and resources for Maximum Tune 6.
 
-#### [Maximum Tune Subreddit](https://www.reddit.com/r/wmmt)
+#### Official Resources
+
+##### [Story Mode](https://wanganmaxi-official.com/wanganmaxi6/en/system/story/)
+Official Maximum Tune 6 Story Mode Information
+
+##### [VS Player (This Machine)](https://wanganmaxi-official.com/wanganmaxi6/en/system/vsplayer/)
+Official Maximum Tune 6 VS Player (This Machine) Information
+
+##### [Online VS (Ghost Battle)](https://wanganmaxi-official.com/wanganmaxi6/en/system/ghost/)
+Official Maximum Tune 6 Online VS (Ghost Battle) Information
+
+##### [Time Attack](https://wanganmaxi-official.com/wanganmaxi6/en/system/timeattack/)
+Official Maximum Tune 6 Time Attack Information
+
+##### [Level and Title](https://wanganmaxi-official.com/wanganmaxi6/en/system/level/)
+Official Maximum Tune 6 Level and Title Information
+
+#### Unofficial Resources
+
+##### [Maximum Tune Subreddit](https://www.reddit.com/r/wmmt)
 Maximum Tune Community on Reddit.
 
-#### [Maximum Tune WikiWiki](https://wikiwiki.jp/wmmt)
+##### [Maximum Tune WikiWiki](https://wikiwiki.jp/wmmt)
 Japanese Maximum Tune wiki website.
 
-#### [SOARS Media](https://soarsmedia.blogspot.com/)
+##### [SOARS Media](https://soarsmedia.blogspot.com/)
 Japanese website with various resources for Maximum tune such as a list of cars, titles, etc.
