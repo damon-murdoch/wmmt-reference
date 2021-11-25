@@ -3,12 +3,12 @@
 ### Created by Damon M [@SirScrubbington](https://www.twitter.com/SirScrubbington)
 
 ### Table of Contents
-#### 1.0 [External Links](#external-links)
-#### 2.0 [Resources and Tables](#resources-and-tables)
-  #### 2.1 [Per-Track Horsepower Table](#per-track-horsepower-table)
+#### [External Links](#external-links)
+#### [Resources and Tables](#resources-and-tables)
+  #### [Per-Track Horsepower Table](#per-track-horsepower-table)
 
-### 2.0 Resources and Tables
-#### 2.1 Per Course Horsepower Table
+### Resources and Tables
+#### Per Course Horsepower Table
 Credits: Nuku \*DSM\* on the WMMT Discord
 
 | Track | Horse Power | Points |
@@ -35,7 +35,7 @@ Credits: Nuku \*DSM\* on the WMMT Discord
 | Metro Hwy (Tokyo) | 760 HP | 18 P |
 | Metro Hwy (Kangawa) | 840 HP | 24 P |
 
-### 3.0 External Links
+### External Links
 The following is a list of useful (external) links and resources for Maximum Tune 6.
 
 #### [Maximum Tune Subreddit](https://www.reddit.com/r/wmmt)
