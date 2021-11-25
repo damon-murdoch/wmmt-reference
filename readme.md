@@ -72,6 +72,8 @@ The following is a list of useful (external) links and resources for Maximum Tun
 
 #### Unofficial Resources
 
+##### Communities / Wikis
+
 * [Maximum Tune Subreddit](https://www.reddit.com/r/wmmt)
   * Maximum Tune Community on Reddit.
 
@@ -80,3 +82,8 @@ The following is a list of useful (external) links and resources for Maximum Tun
 
 * [SOARS Media](https://soarsmedia.blogspot.com/)
   * Japanese website with various resources for Maximum tune such as a list of cars, titles, etc.
+
+##### Community Resources
+
+* [Community Power Rankings](https://tiermaker.com/categories/nascar-racing/wmmt6-2021-car-tier-list-1098661)
+  * (Subjective) Community Maximum Tune 6 car tier list.
