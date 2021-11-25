@@ -7,6 +7,18 @@
 * [Resources and Tables](#resources-and-tables)
   * [Course Horsepower Table](#course-horsepower-table)
 
+### External Links
+The following is a list of useful (external) links and resources for Maximum Tune 6.
+
+#### [Maximum Tune Subreddit](https://www.reddit.com/r/wmmt)
+Maximum Tune Community on Reddit.
+
+#### [Maximum Tune WikiWiki](https://wikiwiki.jp/wmmt)
+Japanese Maximum Tune wiki website.
+
+#### [SOARS Media](https://soarsmedia.blogspot.com/)
+Japanese website with various resources for Maximum tune such as a list of cars, titles, etc.
+
 ### Resources and Tables
 #### Course Horsepower Table
 Credits: Nuku \*DSM\* on the WMMT Discord
@@ -34,15 +46,3 @@ Credits: Nuku \*DSM\* on the WMMT Discord
 | Mt. Taikan Up | 760/780 HP | 18/19 P |
 | Metro Hwy (Tokyo) | 760 HP | 18 P |
 | Metro Hwy (Kangawa) | 840 HP | 24 P |
-
-### External Links
-The following is a list of useful (external) links and resources for Maximum Tune 6.
-
-#### [Maximum Tune Subreddit](https://www.reddit.com/r/wmmt)
-Maximum Tune Community on Reddit.
-
-#### [Maximum Tune WikiWiki](https://wikiwiki.jp/wmmt)
-Japanese Maximum Tune wiki website.
-
-#### [SOARS Media](https://soarsmedia.blogspot.com/)
-Japanese website with various resources for Maximum tune such as a list of cars, titles, etc.
