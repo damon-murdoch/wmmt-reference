@@ -3,9 +3,9 @@
 ### Created by Damon M [@SirScrubbington](https://www.twitter.com/SirScrubbington)
 
 ### Table of Contents
-#### [External Links](###external-links)
-#### [Resources and Tables](###resources-and-tables)
-  #### [Per-Track Horsepower Table](####per-track-horsepower-table)
+#### [External Links](#external-links)
+#### [Resources and Tables](#resources-and-tables)
+  #### [Per-Track Horsepower Table](#per-track-horsepower-table)
 
 ### Resources and Tables
 #### Per Course Horsepower Table
