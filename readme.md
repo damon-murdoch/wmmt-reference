@@ -25,7 +25,9 @@ I find which may benefit newer players and my friends.
 #### How do I increase my car's level? 
 There are a number of ways to increase your car's level. 
 These include Milestones such as first 100 online trophies
-or VS battle stars, then 200, 500 and so on. 
+or VS battle stars, then 200, 500 and so on. This also 
+works similarly in the story mode, where you will rank up
+for every 10 wins, then 20 wins, then 50 and so on. 
 
 Another way to progress is through the ghost battle mode, 
 specifically Japan Challenge. Japan Challenge grants you
