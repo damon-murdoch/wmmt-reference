@@ -111,3 +111,6 @@ The following is a list of useful (external) links and resources for Maximum Tun
 
 * [Community Power Rankings](https://tiermaker.com/categories/nascar-racing/wmmt6-2021-car-tier-list-1098661)
   * (Subjective) Community Maximum Tune 6 car tier list.
+
+* [Beginner's Guide to unlocking items](https://www.reddit.com/r/wmmt/comments/9ls17a/beginners_guide_to_unlocking_certain_items/?utm_medium=android_app&utm_source=share)
+  * A beginner's guide for unlocking certain items, such as tachometers etc. created by Pyr0m4n14c44 on Reddit. 
