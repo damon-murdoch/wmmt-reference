@@ -22,6 +22,18 @@ and practising as well as recording useful information
 I find which may benefit newer players and my friends.
 
 ### Frequently Asked Questions
+#### How do I increase my car's level? 
+There are a number of ways to increase your car's level. 
+These include Milestones such as first 100 online trophies
+or VS battle stars, then 200, 500 and so on. 
+
+Another way to progress is through the ghost battle mode, 
+specifically Japan Challenge. Japan Challenge grants you
+a rank up every 25 races for the first 200 races, but then
+gets progressively slower as it goes on. 
+
+For a full breakdown of the progression, please look at 
+the table [here](#japan-challenge-rank-up-guide).
 
 ### Guides and References
 #### Course Horsepower Table
@@ -50,6 +62,18 @@ Credits: Nuku \*DSM\* on the WMMT Discord
 | Mt. Taikan Up | 760/780 HP | 18/19 P |
 | Metro Hwy (Tokyo) | 760 HP | 18 P |
 | Metro Hwy (Kangawa) | 840 HP | 24 P |
+
+#### Japan Challenge Rank-Up Guide
+Credits: MotionOCE on Reddit
+
+| Loop | Stages | 
+| ---- | ------ | 
+| 1st | 25, 50 Stages | 
+| 2nd | 75, 100 Stages | 
+| 3rd | 125, 150 Stages | 
+| 4th | 175, 200 Stages | 
+| 5th | 250 Stages | 
+| 10th | 500 Stages | 
 
 ### External Resources
 The following is a list of useful (external) links and resources for Maximum Tune 6.
