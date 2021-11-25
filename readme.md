@@ -5,10 +5,10 @@
 ### Table of Contents
 #### [1. External Links](#external-links)
 #### [2. Resources and Tables](#resources-and-tables)
-  #### [1. Per-Track Horsepower Table](#per-track-horsepower-table)
+  #### [1. Course Horsepower Table](#course-horsepower-table)
 
 ### Resources and Tables
-#### Per Course Horsepower Table
+#### Course Horsepower Table
 Credits: Nuku \*DSM\* on the WMMT Discord
 
 | Track | Horse Power | Points |
