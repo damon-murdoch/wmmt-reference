@@ -68,12 +68,12 @@ Credits: MotionOCE on Reddit
 
 | Loop | Stages | 
 | ---- | ------ | 
-| 1st | 25, 50 Stages | 
-| 2nd | 75, 100 Stages | 
-| 3rd | 125, 150 Stages | 
-| 4th | 175, 200 Stages | 
-| 5th | 250 Stages | 
-| 10th | 500 Stages | 
+| 1st | 25, 50 | 
+| 2nd | 75, 100 | 
+| 3rd | 125, 150 | 
+| 4th | 175, 200 | 
+| 5th | 250 | 
+| 10th | 500 | 
 
 ### External Resources
 The following is a list of useful (external) links and resources for Maximum Tune 6.
