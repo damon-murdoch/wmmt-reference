@@ -3,21 +3,22 @@
 ### Created by Damon M [@SirScrubbington](https://www.twitter.com/SirScrubbington)
 
 ### Table of Contents
-* [External Links](#external-links)
+* [Introduction](#introduction)
 * [Resources and Tables](#resources-and-tables)
   * [Course Horsepower Table](#course-horsepower-table)
+* [External Links](#external-links)
 
-### External Links
-The following is a list of useful (external) links and resources for Maximum Tune 6.
+### Introduction
+Hello! I'm Damon, also known as Scrubbs and last year
+I started playing Maximum Tune 6. I had no idea where 
+to find resources when I started playing, and as I've 
+started to take it more seriously I've been searching
+for tools and guides on how to race competitively.
 
-#### [Maximum Tune Subreddit](https://www.reddit.com/r/wmmt)
-Maximum Tune Community on Reddit.
-
-#### [Maximum Tune WikiWiki](https://wikiwiki.jp/wmmt)
-Japanese Maximum Tune wiki website.
-
-#### [SOARS Media](https://soarsmedia.blogspot.com/)
-Japanese website with various resources for Maximum tune such as a list of cars, titles, etc.
+I've created this document for myself, as a way to 
+look up information quickly as I need it when playing
+and practising as well as recording useful information
+I find which may benefit newer players and my friends.
 
 ### Resources and Tables
 #### Course Horsepower Table
@@ -46,3 +47,15 @@ Credits: Nuku \*DSM\* on the WMMT Discord
 | Mt. Taikan Up | 760/780 HP | 18/19 P |
 | Metro Hwy (Tokyo) | 760 HP | 18 P |
 | Metro Hwy (Kangawa) | 840 HP | 24 P |
+
+### External Links
+The following is a list of useful (external) links and resources for Maximum Tune 6.
+
+#### [Maximum Tune Subreddit](https://www.reddit.com/r/wmmt)
+Maximum Tune Community on Reddit.
+
+#### [Maximum Tune WikiWiki](https://wikiwiki.jp/wmmt)
+Japanese Maximum Tune wiki website.
+
+#### [SOARS Media](https://soarsmedia.blogspot.com/)
+Japanese website with various resources for Maximum tune such as a list of cars, titles, etc.
