@@ -14,8 +14,8 @@ in Maximum Tune 6 saves, as well as some of the hex values for different propert
 such as car ids, aero kits, license plate designs etc. 
 
 ### Hex Indexes
-
-### Hex Values 
+This table is maintained by me, based upon community resources. To see this table in 
+spreadsheet form, please check the Google Drive Spreadsheet [here](https://docs.google.com/spreadsheets/d/1xv3DBBqWzcoo2VhsGaj_QV_Sqf-H2uuMKscKiqs6ecs/edit?usp=sharing).
 
 |  Offset  | 00 | 01 | 02 | 03 | 04 | 05 | 06 | 07 | 08 | 09 | 0A | 0B | 0C | 0D | 0E | 0F | 
 | -------- | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | 
@@ -32,6 +32,8 @@ such as car ids, aero kits, license plate designs etc.
 | 000000B0 | | | | | | | | | | | | | | | | |
 | 000000C0 | | | | | | | | | | | | | | | | |
 | 000000D0 | | | | | | | | | | | | | | | | |
+
+### Hex Values 
 
 #### Car Indexes
 ##### Credits: Discord TGR24#7257
