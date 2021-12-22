@@ -21,10 +21,10 @@ such as car ids, aero kits, license plate designs etc.
 | -------- | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | 
 | 00000010 | | | | | | | | | | | | | | | | |
 | 00000020 | | | | | | | | | | | | | | | | |
-| 00000030 | | | | | Car ID| | | | | | | | | | | |
-| 00000040 | Rims | | | | Rims Colour | | | | | | | | | | | |
-| 00000050 | | | | | | | | | | | | | | | | |
-| 00000060 | Neon | | | | Trunk | | | | | | | | | | | |
+| 00000030 | | | | | Car ID| | | | Car Colour | | | | | | | |
+| 00000040 | Rims | | | | Rims Colour | | | | Body Kit | | | | Hood | | | |
+| 00000050 | | | | | | | | | Wing | | | | Mirror | | | |
+| 00000060 | Neon | | | | Trunk | | | | Plate Frame | | | | Plate Frame Colour | | | |
 | 00000070 | Plate Number | Plate Number | | | Power | | | | | | | | | | | |
 | 00000080 | Handling | | | | Car Rank | | | | | | | | | | | |
 | 00000090 | Sticker Type | | | | | | | | | | | | | | | |
