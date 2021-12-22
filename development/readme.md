@@ -27,7 +27,7 @@ such as car ids, aero kits, license plate designs etc.
 | 00000060 | Neon | | | | Trunk | | | | Plate Frame | | | | Plate Frame Colour | | | |
 | 00000070 | Plate Number | Plate Number | | | Power | | | | | | | | | | | |
 | 00000080 | Handling | | | | Car Rank | | | | | | | | | | | |
-| 00000090 | Sticker Type | | | | | | | Sticker ID | | | | | | | | |
+| 00000090 | Sticker Type | | | | | | | | Sticker ID | | | | | | | |
 | 000000A0 | Title | Title | Title | Title(?) | | | | | | | | | | | | |
 | 000000B0 | | | | | | | | | | | | | | | | |
 | 000000C0 | | | | | | | | | | | | | | | | |
