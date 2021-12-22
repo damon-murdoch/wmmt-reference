@@ -459,10 +459,6 @@ spreadsheet form, please check the Google Drive Spreadsheet [here](https://docs.
 
 #### Rank
 ##### Credits: Myself
-Note: These values are for Maximum Tune 5, however
-they still work for Maximum tune 6. An additional S, 
-however is also available but this has not yet been
-added to the data sheet.
 
 | Hex Code | Value | 
 | -- | ----------- |
@@ -522,6 +518,16 @@ added to the data sheet.
 | 36 | SSS2 | 
 | 37 | SSS1 | 
 | 38 | SSSS | 
+| 39 | SSSS9 | 
+| 3A | SSSS8 | 
+| 3B | SSSS7 | 
+| 3C | SSSS6 | 
+| 3D | SSSS5 | 
+| 3E | SSSS4 | 
+| 3F | SSSS3 | 
+| 40 | SSSS2 |
+| 41 | SSSS1 | 
+| 42 | SSSSS |
 
 #### Sticker Type
 ##### Credits: 
