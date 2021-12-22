@@ -38,8 +38,14 @@ For a full breakdown of the progression, please look at
 the table [here](#japan-challenge-rank-up-guide).
 
 ### Guides and References
-#### Course Horsepower Table
+#### Time Attack Course Horsepower Table
 Credits: Nuku \*DSM\* on the WMMT Discord
+
+Time attack speeds are generally higher 
+than versus or ghost battle speeds as 
+gameplay involves less random elements 
+such as no traffic, players etc. and is
+purely based on racing skill.
 
 | Track | Horse Power | Points |
 | ----- | ----------- | ------ |
@@ -64,6 +70,36 @@ Credits: Nuku \*DSM\* on the WMMT Discord
 | Mt. Taikan Up | 760/780 HP | 18/19 P |
 | Metro Hwy (Tokyo) | 760 HP | 18 P |
 | Metro Hwy (Kangawa) | 840 HP | 24 P |
+
+#### Versus Battle Course Horsepower Table
+Credits: Brisbane Maximum Tune Community
+
+Versus battle speeds are generally slower than
+time attack speeds, as you must be able to react
+faster to other racers and traffic conditions. This
+table can also be applied to Ghost Battles, Story Mode etc.
+
+| Track | Horse Power | Points |
+| ----- | ----------- | ------ |
+| C1 Inward | 700 HP | 15 P |
+| C1 Outward | 700 HP | 15 P |
+| New Belt Line (CCW) | 740 HP | 17 P |
+| New Belt Line (CW) | 800 HP | 20 P |
+| Shibuya/Shinjuku | 680 HP | 14 P |
+| Ikebukuro | 700 HP | 15 P |
+| Wangan Line East/West | 840 HP | 24 P |
+| Yokohane Up/Down | 840 HP | 24 P |
+| Yaesu Inward | 680 HP | 14 P |
+| Yaesu Outward | 680 HP | 14 P |
+| Minato Mirai | 780 HP | 19 P |
+| Osaka | 740 HP | 17 P |
+| Nagoya | 760/780 HP | 18/19 P |
+| Fukuoka | 720/740 HP | 16/17 P |
+| Kobe | 660 HP | 13 P |
+| Hiroshima | 660 HP | 13 P |
+| Hakone | 720 HP | 16 P |
+| Mt. Taikan Down | 720 HP | 16 P |
+| Mt. Taikan Up | 740 HP | 17 P |
 
 #### Japan Challenge Rank-Up Guide
 Credits: MotionOCE on Reddit
