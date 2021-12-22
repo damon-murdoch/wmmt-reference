@@ -17,7 +17,7 @@ such as car ids, aero kits, license plate designs etc.
 ### Hex Values 
 
 #### Car Indexes
-##### Credits: 
+##### Credits: Discord TGR24#7257
 
 | Hex Code | Value | 
 | -- | ----------- |
@@ -158,7 +158,7 @@ such as car ids, aero kits, license plate designs etc.
 | 39 | TOYOTA SUPRA RZ [JZA80] |
 
 #### Aero Kits
-##### Credits: 
+##### Credits: Discord TGR24#7257
 
 | Hex Code | Value | 
 | -- | ----------- |
@@ -176,7 +176,7 @@ such as car ids, aero kits, license plate designs etc.
 | 0B | Aero Set H |
 
 #### Rear Wings
-##### Credits: 
+##### Credits: Discord TGR24#7257
 
 | Hex Code | Value | 
 | -- | ----------- |
@@ -192,7 +192,7 @@ such as car ids, aero kits, license plate designs etc.
 | 09 | No Wing |
 
 #### Car Hoods
-##### Credits: 
+##### Credits: Discord TGR24#7257
 
 | Hex Code | Value | 
 | -- | ----------- |
@@ -207,7 +207,7 @@ such as car ids, aero kits, license plate designs etc.
 | 08 | FRP Bonnet D |
 
 #### Mirrors
-##### Credits: 
+##### Credits: Discord TGR24#7257
 
 | Hex Code | Value | 
 | -- | ----------- |
@@ -216,7 +216,7 @@ such as car ids, aero kits, license plate designs etc.
 | 02 | Carbon Aero Mirror | 
 
 #### Trunks
-##### Credits: 
+##### Credits: Discord TGR24#7257
 
 | Hex Code | Value | 
 | -- | ----------- |
@@ -224,7 +224,7 @@ such as car ids, aero kits, license plate designs etc.
 | 01 | Carbon Trunk | 
 
 #### Neons
-##### Credits: 
+##### Credits: Discord TGR24#7257
 
 | Hex Code | Value | 
 | -- | ----------- |
@@ -241,7 +241,7 @@ such as car ids, aero kits, license plate designs etc.
 | 10 | Purple Tribal | 
 
 #### Plate Frames
-##### Credits: 
+##### Credits: Discord TGR24#7257
 
 | Hex Code | Value | 
 | -- | ----------- |
@@ -272,7 +272,7 @@ such as car ids, aero kits, license plate designs etc.
 | 04 04 | Yellow | 
 
 #### Districts
-##### Credits: 
+##### Credits: Discord TGR24#7257
 
 | Hex Code | Value | 
 | -- | ----------- |
@@ -287,7 +287,7 @@ such as car ids, aero kits, license plate designs etc.
 | 2F | Okinawa | 
 
 #### Rims
-##### Credits: 
+##### Credits: Discord TGR24#7257
 
 | Hex Code | Value | 
 | -- | ----------- |
@@ -377,7 +377,7 @@ such as car ids, aero kits, license plate designs etc.
 | 54 | Rays Homura 2X8GT | 
 
 #### Power
-##### Credits: 
+##### Credits: Myself
 
 | Hex Code | Value | 
 | -- | ----------- |
@@ -408,7 +408,7 @@ such as car ids, aero kits, license plate designs etc.
 | 18 | 24 Points (840 HP) | 
 
 #### Handling
-##### Credits: 
+##### Credits: Myself
 
 | Hex Code | Value | 
 | -- | ----------- |
@@ -439,7 +439,7 @@ such as car ids, aero kits, license plate designs etc.
 | 18 | 24 Points | 
 
 #### Rank
-##### Credits: 
+##### Credits: Myself
 
 | Hex Code | Value | 
 | -- | ----------- |
