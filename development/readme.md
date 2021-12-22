@@ -5,9 +5,10 @@
 ### Table of Contents
 * [Introduction](#introduction)
 * [Hex Indexes](#hexindexes)
+* [Hex Values](#hexvalues)
 
 ### Introduction
-Hello! I| m Damon, and I| ve been working on a save editing tool for Maximum Tune 6 on 
+Hello! I'm Damon, and I've been working on a save editing tool for Maximum Tune 6 on 
 Teknoparrot and JConfig. The following document shows the indexes of where data is stored
 in Maximum Tune 6 saves, as well as some of the hex values for different properties
 such as car ids, aero kits, license plate designs etc. 
@@ -15,6 +16,22 @@ such as car ids, aero kits, license plate designs etc.
 ### Hex Indexes
 
 ### Hex Values 
+
+|  Offset  | 00 | 01 | 02 | 03 | 04 | 05 | 06 | 07 | 08 | 09 | 0A | 0B | 0C | 0D | 0E | 0F | 
+| -------- | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | 
+| 00000010 | | | | | | | | | | | | | | | | |
+| 00000020 | | | | | | | | | | | | | | | | |
+| 00000030 | | | | | Car ID| | | | | | | | | | | |
+| 00000040 | Rims | | | | Rims Colour | | | | | | | | | | | |
+| 00000050 | | | | | | | | | | | | | | | | |
+| 00000060 | Neon | | | | Trunk | | | | | | | | | | | |
+| 00000070 | Plate Number | Plate Number | | | Power | | | | | | | | | | | |
+| 00000080 | Handling | | | | Car Rank | | | | | | | | | | | |
+| 00000090 | Sticker Type | | | | | | | | | | | | | | | |
+| 000000A0 | Title | Title | Title | Title(?) | | | | | | | | | | | | |
+| 000000B0 | | | | | | | | | | | | | | | | |
+| 000000C0 | | | | | | | | | | | | | | | | |
+| 000000D0 | | | | | | | | | | | | | | | | |
 
 #### Car Indexes
 ##### Credits: Discord TGR24#7257
