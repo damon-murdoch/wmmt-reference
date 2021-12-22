@@ -6,7 +6,8 @@
 * [Introduction](#introduction)
 * [Frequently Asked Questions](#frequently-asked-questions)
 * [Guides and References](#guides-and-references)
-  * [Course Horsepower Table](#course-horsepower-table)
+  * [Time Attack Course Horsepower Table](#time-attack-course-horsepower-table)
+  * [Versus Battle Course Horsepower Table](#versus-battle-course-horsepower-table)
 * [External Resources](#external-resources)
 
 ### Introduction

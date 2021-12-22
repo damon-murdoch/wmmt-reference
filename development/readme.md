@@ -4,8 +4,23 @@
 
 ### Table of Contents
 * [Introduction](#introduction)
-* [Hex Indexes](#hexindexes)
-* [Hex Values](#hexvalues)
+* [Hex Indexes](#hex-indexes)
+  * [Hex Index Table](#hex-index-table)
+* [Hex Values](#hex-values)
+  * [Cars](#cars)
+  * [Aero Kits](#aero-kits)
+  * [Rear Wings](#rear-wings)
+  * [Car Hoods](#car-hoods)
+  * [Mirrors](#mirrors)
+  * [Trunks](#trunks)
+  * [Neons](#neons)
+  * [Plate Frames](#plate-frames)
+  * [Districts](#districts)
+  * [Power](#power)
+  * [Handling](#handling)
+  * [Rank](#rank)
+  * [Sticker Types](#sticker-types)
+  * [Sticker IDs](#sticker-ids)
 
 ### Introduction
 Hello! I'm Damon, and I've been working on a save editing tool for Maximum Tune 6 on 
@@ -16,6 +31,8 @@ such as car ids, aero kits, license plate designs etc.
 ### Hex Indexes
 This table is maintained by me, based upon community resources. To see this table in 
 spreadsheet form, please check the Google Drive Spreadsheet [here](https://docs.google.com/spreadsheets/d/1xv3DBBqWzcoo2VhsGaj_QV_Sqf-H2uuMKscKiqs6ecs/edit?usp=sharing).
+
+#### Hex Index Table
 
 |  Offset  | 00 | 01 | 02 | 03 | 04 | 05 | 06 | 07 | 08 | 09 | 0A | 0B | 0C | 0D | 0E | 0F | 
 | -------- | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | 
@@ -33,9 +50,9 @@ spreadsheet form, please check the Google Drive Spreadsheet [here](https://docs.
 | 000000C0 | | | | | | | | | | | | | | | | |
 | 000000D0 | | | | | | | | | | | | | | | | |
 
-### Hex Values 
+### Hex Values
 
-#### Car Indexes
+#### Cars
 ##### Credits: Discord TGR24#7257
 
 | Hex Code | Value | 
